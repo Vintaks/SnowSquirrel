@@ -1,0 +1,8 @@
+[0102/200136.109:ERROR:settings.cc(325)] Settings version is not 1
+[0102/201136.118:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0102/210945.597:ERROR:settings.cc(325)] Settings version is not 1
+[0102/211413.526:ERROR:settings.cc(325)] Settings version is not 1
+[0102/211616.515:ERROR:settings.cc(325)] Settings version is not 1
+[0102/211912.669:ERROR:settings.cc(325)] Settings version is not 1
+[0102/212054.681:ERROR:settings.cc(325)] Settings version is not 1
+[0102/213054.694:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
